@@ -1,4 +1,3 @@
-# Twin-Prime-Gap-Analysis-And-Extreme-Value-Modeling
 # Twin Prime Gap Analysis and Extreme Value Modeling
 
 ## Overview
