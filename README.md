@@ -163,7 +163,7 @@ For offering support and contributing useful inputs related to the development o
 
 *Joydeep Chowdhury*
 
-For providing assistance and encou
+For providing assistance and encouragement that contributed to the successful completion of the work.
 
 ---
 ## License
